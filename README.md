@@ -19,6 +19,17 @@
 ![Screenshot of flask app for error in email validation](/assets/img/image-8.png)
 ![Screenshot of flask app when input email is not a UofT email](/assets/img/image-9.png)
 
+# Activity 2.1
+![Change default branch on GitHub](/assets/img/image-10.png)
+
+# Activity 2.2
+![Docker version on terminal after docker installation](/assets/img/image-11.png)
+
+# Activity 2.3
+![Screenshot of Flask app after updating the index title](/assets/img/image-12.png)
+
+# Activity 2.4
+![Screenshot of building and running the docker image](/assets/img/image-13.png)
 
 Flasky
 ======
