@@ -1,6 +1,18 @@
 ## Raisa Islam Aishy
 > this repo is a clone of https://github.com/miguelgrinberg/flasky. 
 
+# Activity 1.1
+![Screenshot showing packages installed in the virtual environment](image.png)
+
+# Activity 1.2
+![Screenshot of Hello World flask app index route](/assets/img/image.png)
+![Screenshot of flask app with dynamic route by user name](/assets/img/image-1.png)
+
+# Activity 1.3
+
+
+# Activity 1.4
+
 Flasky
 ======
 
