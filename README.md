@@ -12,6 +12,13 @@
 ![Screenshot of flask app with bootstrap and moment extension implementation](/assets/img/image-3.png)
 
 # Activity 1.4
+![Screenshot of initial flask app for Example 4.7](/assets/img/image-4.png)
+![Screenshot of flask app after name is submited](/assets/img/image-5.png)
+![Screenshot of flask app with new field for email address](/assets/img/image-6.png)
+![Screenshot of flask app when correct inputs are given](/assets/img/image-7.png)
+![Screenshot of flask app for error in email validation](/assets/img/image-8.png)
+![Screenshot of flask app when input email is not a UofT email](/assets/img/image-9.png)
+
 
 Flasky
 ======
